@@ -18,6 +18,3 @@ A basic Todo application built using **HTML**, **CSS (Bootstrap)**, and **Vanill
 
 ![Todo App Screenshot](./screenshot.png)
 
----
-
-## 📂 Folder Structure
